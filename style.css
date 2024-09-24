@@ -1,4 +1,5 @@
 :root {
+    /*Karen Gabriele 3D 24/09/2024*/
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -82,7 +83,7 @@ body {
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
-
+/*Karen Gabriele 3D 24/09/2024*/
 .descricao__texto {
     color: var(--cinza-secundario);
 }
@@ -144,7 +145,7 @@ body {
 .lista__link a:hover {
     color: var(--botao-azul);
 }
-
+/*Karen Gabriele 3D 24/09/2024*/
 .lista__link a:active {
     color: purple;
 }
